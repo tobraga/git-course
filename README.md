@@ -7,7 +7,7 @@ Nessa seção, será apresentado os seguintes tópicos
 1. Teste 
 
 ## Seção 03: Comandos Essenciais []()
-
+Sem conteúdo 
 ## Seção 04: Repositórios Remotos []()
 Nessa seção, será apresentado os seguintes tópicos
 1. Criação de um repositório;
