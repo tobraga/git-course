@@ -8,8 +8,8 @@ Nessa seção, será apresentado os seguintes tópicos
 
 ## Seção 03: Comandos Essenciais []()
 Sem conteúdo 
-## Seção 04: Repositórios Remotos [This page](./Seção04/seção04.md)
-Nessa seção, será apresentado os seguintes tópicos 
+## Seção 04: Repositórios Remotos
+Nessa seção [This page](./Seção04/seção04.md), será apresentado os seguintes tópicos 
 1. Criação de um repositório;
 2. Criação e adicionando chave SSH;
 3. Lincando repostório local com o remoto;
@@ -23,6 +23,6 @@ Nessa seção, será apresentado os seguintes tópicos
 ## Seção 06: Extras []()
 
 
-### Markdown utilizado, disponível em:
+#### Markdown utilizado, disponível em:
 [Site 01](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open
 )
